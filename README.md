@@ -1,4 +1,4 @@
-# Assignment 6
+# TinyTweets
 
 Creation of TinyTweets, a simple micro-blogging application using JavaScript.
 
@@ -22,7 +22,7 @@ Able to update a blog as complete by clicking an update icon with the editable b
 
 # Instructions to run the Project
 
-1. Take a Clone of the repository - `git@github.com:info-6150-fall-2023/assignment-6-Agnichaturvedi.git`
+1. Take a Clone of the repository - `https://github.com/Agnii555/tinytweets.git`
 
 2. Once the clone is ready open the project folder inside VScode or any other code editor.
 
